@@ -1,7 +1,7 @@
 import ChatInterface from './Chat'
 
 function App() {
-
+  
   return (
     <>
       <ChatInterface />
